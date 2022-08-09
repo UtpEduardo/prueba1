@@ -1,0 +1,11 @@
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\bin\Debug\Logica.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\bin\Debug\Logica.pdb
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\bin\Debug\AccesoADatos.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\bin\Debug\DatosLP.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\bin\Debug\AccesoADatos.pdb
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\bin\Debug\DatosLP.pdb
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\obj\Debug\Logica.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\Logica\obj\Debug\Logica.pdb

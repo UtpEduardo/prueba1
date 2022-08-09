@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo", "Catalogo\Catalogo.csproj", "{F938A97C-AAFB-47DF-A49B-838376D60682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoADatos", "AccesoADatos\AccesoADatos.csproj", "{FFD26363-7DB9-4262-90A8-7188442914DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{89EEB726-86FC-4D3B-B58A-7694BEBDB69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F938A97C-AAFB-47DF-A49B-838376D60682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F938A97C-AAFB-47DF-A49B-838376D60682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F938A97C-AAFB-47DF-A49B-838376D60682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F938A97C-AAFB-47DF-A49B-838376D60682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD26363-7DB9-4262-90A8-7188442914DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD26363-7DB9-4262-90A8-7188442914DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD26363-7DB9-4262-90A8-7188442914DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD26363-7DB9-4262-90A8-7188442914DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EEB726-86FC-4D3B-B58A-7694BEBDB69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EEB726-86FC-4D3B-B58A-7694BEBDB69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EEB726-86FC-4D3B-B58A-7694BEBDB69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EEB726-86FC-4D3B-B58A-7694BEBDB69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407728A2-7906-40F5-8209-0C236A63FFB3}
+	EndGlobalSection
+EndGlobal

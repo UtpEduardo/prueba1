@@ -1,0 +1,9 @@
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\bin\Debug\DatosLP.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\bin\Debug\DatosLP.pdb
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\obj\Debug\AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Lalo\Documents\woody\Remedial\Catalogo\AccesoADatos\obj\Debug\AccesoADatos.pdb

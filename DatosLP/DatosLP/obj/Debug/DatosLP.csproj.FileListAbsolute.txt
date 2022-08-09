@@ -1,0 +1,6 @@
+C:\Users\Lalo\Documents\woody\Remedial\DatosLP\DatosLP\bin\Debug\DatosLP.dll
+C:\Users\Lalo\Documents\woody\Remedial\DatosLP\DatosLP\bin\Debug\DatosLP.pdb
+C:\Users\Lalo\Documents\woody\Remedial\DatosLP\DatosLP\obj\Debug\DatosLP.csproj.AssemblyReference.cache
+C:\Users\Lalo\Documents\woody\Remedial\DatosLP\DatosLP\obj\Debug\DatosLP.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\Documents\woody\Remedial\DatosLP\DatosLP\obj\Debug\DatosLP.dll
+C:\Users\Lalo\Documents\woody\Remedial\DatosLP\DatosLP\obj\Debug\DatosLP.pdb
